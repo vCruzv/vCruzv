@@ -5,7 +5,13 @@
 </h1>
 
 ## Coding Skills💻
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,html)](https://skillicons.dev)
+<div align="center">
+    <div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,c,html" />
+  </a>
+    </div>
+</div>
 
 ## Binary Brains Contact
 <div align="center">
