@@ -20,7 +20,7 @@ Here are some ideas to get you started:
   <a href="https://www.instagram.com/lapanteramora___/">
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
-  <a href="Discordapp.com/users/906567062426648647">
+  <a href="https://discord.gg/bHujnD75">
     <img src="https://skillicons.dev/icons?i=discord" />
   </a>
 </p>
