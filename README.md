@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8100F7&random=false&width=435&lines=%C2%A1Hi+(o%EF%BE%9Fv%EF%BE%9F)%E3%83%8E!;Im+Cruz.;I+am+a+computer+science+student.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8100F7&random=false&width=500&height=200&lines=%C2%A1Hi+(o%EF%BE%9Fv%EF%BE%9F)%E3%83%8E!;Im+Cruz.;I+am+a+computer+science+student.)](https://git.io/typing-svg)
 ## Binary Brains Contact
 <div align="center">
 <p >
