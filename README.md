@@ -4,7 +4,7 @@
 </a>
 </h1>
 
-## 𝙲𝚘𝚍𝚒𝚗𝚐 𝚂𝚔𝚒𝚕𝚕𝚜💻
+## Coding Skills💻
 <div align="center">
     <div align="center">
     <h3>Languages</h3>
@@ -27,4 +27,9 @@
   <a href="https://discord.gg/bHujnD75">
 <img src="https://skillicons.dev/icons?i=discord"/>
 </div> 
+
+## Workspace Specs
+<div align="center">
+    <img src="https://img.shields.io/badge/AMD-Radeon_RX_6600-ED1C24?style=for-the-badge&logo=amd&logoColor=white" />
+</div>
 
