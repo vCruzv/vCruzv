@@ -23,7 +23,8 @@ Here are some ideas to get you started:
   </a>
 </p>
 </div>
-<div>
+
+<div align="center">
 <img src="https://skillicons.dev/icons?i=discord"/>
 </div> 
 
