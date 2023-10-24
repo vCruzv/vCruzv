@@ -34,7 +34,7 @@
     <img src="https://img.shields.io/badge/AMD-Radeon_RX_6600-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/>
     <div align="bottom">
     <img src="https://img.shields.io/badge/Windows11-ASUS_TUF_GAMING_WIFI_II-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
-    <img src="https://img.shields.io/Kingston-16_RAM_BEAST_3-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Kingston-BEAST_16_RAM-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
     </div>
 
 </div>
