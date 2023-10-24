@@ -22,6 +22,7 @@ Here are some ideas to get you started:
   </a>
   <a href="https://discord.gg/bHujnD75">
     <img src="https://skillicons.dev/icons?i=discord" />
+    <p > Join Binary Brains Community </p>
   </a>
 </p>
 </div>
