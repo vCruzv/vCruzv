@@ -1,6 +1,9 @@
-<div aling="center">
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=800&color=7E03FF&center=true&vCenter=true&multiline=true&random=false&width=500&height=200&lines=%C2%A1Hi+(o%EF%BE%9Fv%EF%BE%9F)%E3%83%8E!;%F0%9F%94%B0Im+Cruz%F0%9F%94%B0;%F0%9F%92%BBI+am+a+computer+science+student%F0%9F%92%BB)](https://git.io/typing-svg)
-</div>
+<h1 align="center">
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=800&color=7E03FF&center=true&vCenter=true&multiline=true&random=false&width=500&height=200&lines=%C2%A1Hi+(o%EF%BE%9Fv%EF%BE%9F)%E3%83%8E!;%F0%9F%94%B0Im+Cruz%F0%9F%94%B0;%F0%9F%92%BBI+am+a+computer+science+student%F0%9F%92%BB" alt="Typing SVG" />
+</a>
+
+</h1>
 ## Binary Brains Contact
 <div align="center">
 <p >
