@@ -6,6 +6,7 @@
 
 ## Coding Skills💻
 <div align="center">
+<h2>Lenguages</h2>
     <div align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cpp,c,html" />
