@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 </div>
 
 <div align="center">
+  <a href="https://discord.gg/bHujnD75">
 <img src="https://skillicons.dev/icons?i=discord"/>
 </div> 
 
