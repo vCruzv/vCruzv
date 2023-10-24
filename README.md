@@ -15,4 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 ## My Skills & Contact
-[![My Skills](https://skillicons.dev/icons?i=html,cpp,c,discord,instagram)](https://skillicons.dev)
+<div align="center">
+<p >
+  <a href="https://www.instagram.com/lapanteramora___/">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
+</p>
+</div>
+
