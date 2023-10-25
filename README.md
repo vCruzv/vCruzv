@@ -29,8 +29,8 @@
     <img src="https://skillicons.dev/icons?i=discord"/>
     <p > Join Binary Brains Community </p>
     </div>
-  </a>
   </p>
+  </a>
 </div>
 
 ## 🖥️Workspace Specs🖥️
