@@ -28,8 +28,8 @@
    <div>
    <a href="https://discord.gg/bHujnD75">
     <img src="https://skillicons.dev/icons?i=discord"/>
-    <p > Join Binary Brains Community </p>
     </a>
+        <p > Join Binary Brains Community </p>
     </div>
   </p>
   </a>
