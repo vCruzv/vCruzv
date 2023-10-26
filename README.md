@@ -6,7 +6,6 @@
 
 ## 💻Coding Skills💻
 <div align="center">
-    <iframe src="https://giphy.com/embed/yZJe5xhaKwXQ3ZJflj" width="480" height="330" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/yZJe5xhaKwXQ3ZJflj">via GIPHY</a></p>
     <div align="center">
     <h3>Languages</h3>
   <a href="https://skillicons.dev">
