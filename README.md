@@ -1,6 +1,6 @@
 <div align="center">
     <picture align="center"><img src="https://i.pinimg.com/originals/c5/00/fe/c500fe8949dd3089ebdca8c749b61fdb.png" width= 800px></picture>
-</div>
+
 <h1 align="center">
     <a href="https://git.io/typing-svg">
         <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=800&color=7E03FF&center=true&vCenter=true&multiline=true&random=false&width=500&height=200&lines=%C2%A1Hi+(o%EF%BE%9Fv%EF%BE%9F)%E3%83%8E!;%F0%9F%94%B0Im+Cruz%F0%9F%94%B0;%F0%9F%92%BBI+am+a+computer+science+student%F0%9F%92%BB" alt="Typing SVG" />
@@ -11,8 +11,8 @@
   <img align="left"  height="150" width="150" alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm5hYWtmdDVjbzdteTBldXo0ZWN0amxvcHRhNnZqZWV0bDB2Y2Y5ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/4HvglAWtvzQGaEyLj9/giphy.gif">
 </a> 
 </a>
-</h1>
-
+</h1>git
+</div>
 
 ## <picture><img  src = "https://media.giphy.com/media/YFCpKvyrKaSfTiQosh/giphy.gif" width = 100px></picture>Coding Skills
 <div align="center">
