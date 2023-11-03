@@ -1,7 +1,7 @@
-<center>
+<div align="center">
 
 ![IMG_CRUZ](https://github.com/vCruzv/vCruzv/assets/148888791/d2bf7595-31ad-4106-8c1d-aa11e8d7c8e0)
-</center>
+</div>
 <div align="center">
 <h1 align="center">
     <a href="https://git.io/typing-svg">
@@ -9,13 +9,18 @@
 </h1>
 </div>
 
-## <picture><img  src = "https://66.media.tumblr.com/tumblr_m9wluwdkUm1rfjowdo1_r1_500.gif" width = 100px></picture>⠀About Me
+## <picture><img  src = "https://66.media.tumblr.com/tumblr_m9wluwdkUm1rfjowdo1_r1_500.gif" width = 100px></picture>About Me
 
 <div>
-  I am a student at 🐉IPN/UPIICSA.
-  🔭 I’m currently working on: <strong>100 Days 100 Projects</strong>
-   I am a member of 🧠Binary Brains.
-   I am focused on both Backend and Frontend.
+
+  - I am a student at 🐉IPN/UPIICSA.
+  
+  - 🔭 I’m currently working on: <strong>100 Days 100 Projects</strong>
+
+  - I am a member of 🧠Binary Brains.
+
+  - I am focused on both Backend and Frontend.
+
 </div>
 
 
