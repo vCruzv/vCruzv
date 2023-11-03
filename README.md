@@ -11,7 +11,7 @@
   <img align="left"  height="150" width="150" alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm5hYWtmdDVjbzdteTBldXo0ZWN0amxvcHRhNnZqZWV0bDB2Y2Y5ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/4HvglAWtvzQGaEyLj9/giphy.gif">
 </a> 
 </a>
-</h1>git
+</h1>
 </div>
 
 ## <picture><img  src = "https://media.giphy.com/media/YFCpKvyrKaSfTiQosh/giphy.gif" width = 100px></picture>Coding Skills
