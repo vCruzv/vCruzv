@@ -52,7 +52,7 @@
 
 ## <picture><img src="https://i.pinimg.com/originals/61/3b/d0/613bd0b647f9b51d0fb325b97b7677e2.gif" width= 120px></picture>Contact Me
 <div align="center">
-    <a href="https://www.instagram.com/lapanteramora___/" />
+    <a href="https://www.instagram.com/lapanteramora___/" target="_blank"/>
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-            <a href="https://www.facebook.com/profile.php?id=100074619822824"/>
+            <a href="https://www.facebook.com/profile.php?id=100074619822824" target="_blank"/>
                 <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
